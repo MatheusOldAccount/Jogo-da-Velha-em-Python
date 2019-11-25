@@ -72,5 +72,3 @@ elif x:
     print('O jogador 1 (do x) venceu!')
 elif empate:
     print('Empatou!')
-else:
-    print('Acabou e nem eu sei o porque\033[m')
